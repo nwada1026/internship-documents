@@ -8,4 +8,4 @@
 - [画像認識・識別][image-detect]
 
 [image-processing]: image-processing/README.md
-[image-detect]: AI-stady/README.md
+[image-detect]: ai-stady/README.md
